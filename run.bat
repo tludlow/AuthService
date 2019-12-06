@@ -1,0 +1,1 @@
+go build -o authservice.exe && authservice.exe
