@@ -10,3 +10,6 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+#.env file should be secret, show an example of it as a text file for the git repo
+.env

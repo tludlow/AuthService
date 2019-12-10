@@ -1,0 +1,5 @@
+ROUTER_PORT=Port for running the web app on, defaults to 8080
+
+DATABASE_USERNAME=root
+DATABASE_PASSWORD=password
+DATABASE_NAME=authservice
